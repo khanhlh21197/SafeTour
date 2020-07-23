@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "337238505720",
+    "firebase_url": "https://touring-b6ebe.firebaseio.com",
+    "project_id": "touring-b6ebe",
+    "storage_bucket": "touring-b6ebe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337238505720:android:4d0d432354ca4b57ec230d",
+        "android_client_info": {
+          "package_name": "com.khanhlh.basemvvmkt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337238505720-ujbme5ktpom6ng1h1mnqj7ralb9knt1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khanhlh.basemvvmkt",
+            "certificate_hash": "b7dbe9f5655e8d947fdd5361a285289bda072f4f"
+          }
+        },
+        {
+          "client_id": "337238505720-g3qc7fk3re06ufti50esola6umt369eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj2Mt1vZuQEUyjRI_kud16jYNWAEZUyeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337238505720-g3qc7fk3re06ufti50esola6umt369eb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
